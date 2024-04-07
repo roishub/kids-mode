@@ -1,0 +1,8 @@
+.heading{
+    position: relative;
+    padding-top: 3%;
+    text-align: center;
+}
+.btn btn-danger btn-sm{
+    padding-bottom: 2px;
+}
